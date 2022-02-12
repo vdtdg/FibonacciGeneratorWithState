@@ -1,5 +1,5 @@
 # Fibonacci Generator with state
-Why not ?
+Yet another Fibonacci Generator. Why not ?
 
 Use this generator if you want to have a generator that saves the state it is in.
 
